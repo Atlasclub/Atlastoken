@@ -1,2 +1,0 @@
-# Atlastoken
-Atlas
